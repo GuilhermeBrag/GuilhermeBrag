@@ -2,8 +2,8 @@
  <br>
  <div>
    <a href="https://github.com/GuilhermeBrag">
-   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBrag&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBrag&layout=compact&langs_count=6&theme=merko"/>
+   <img height="153em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBrag&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+   <img height="153em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBrag&layout=compact&langs_count=6&theme=merko"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="JAVA" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
